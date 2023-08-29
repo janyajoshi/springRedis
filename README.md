@@ -1,4 +1,4 @@
-# Kafka with Spring Boot
+# Caching with Spring Boot
 
 ```mermaid
 classDiagram
